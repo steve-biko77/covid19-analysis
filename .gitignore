@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*.xlsx  # Ignore le dataset lourd
+figures/     # Si tu génères des plots
+*.DS_Store
